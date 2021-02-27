@@ -1,15 +1,17 @@
-# Adminator HTML5 Admin Template
-**Adminator** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/adminator/index.html
+# HAPT HTML5 Admin Template
+
+**HAPT** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/adminator/index.html
 
 # Preview
 
 ### Screenshot
 
-![Adminator admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/adminator-free-admin-dashboard-template.jpg)
+![HAPT admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/adminator-free-admin-dashboard-template.jpg)
 
 ### Demo Site: [Here](https://colorlib.com/polygon/adminator/index.html)
 
 ## TOC
+
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installing & Local Development](#installing--local-development)
@@ -20,28 +22,30 @@
 - [Authors](#authors)
 - [License](#license)
 
-
 ## Getting Started
-In order to run **Adminator** on your local machine all what you need to do is to have the prerequisites stated below installed on your machine and follow the installation steps down below.
+
+In order to run **HAPT** on your local machine all what you need to do is to have the prerequisites stated below installed on your machine and follow the installation steps down below.
 
 #### Prerequisites
-  - Node.js
-  - Yarn or NPM
-  - Git
-  - libpng-dev *linux only*
+
+- Node.js
+- Yarn or NPM
+- Git
+- libpng-dev _linux only_
 
 #### Installing & Local Development
-Start by typing the following commands in your terminal in order to get **Adminator** full package on your machine and starting a local development server with live reload feature.
+
+Start by typing the following commands in your terminal in order to get **HAPT** full package on your machine and starting a local development server with live reload feature.
 
 ```
-> git clone https://github.com/puikinsh/Adminator-admin-dashboard.git adminator
+> git clone https://github.com/puikinsh/HAPT-admin-dashboard.git adminator
 > cd adminator
 > npm install
 > npm run dev
 ```
 
-
 ## Files/Folders Structure
+
 Here is a brief explanation of the template folder structure and some of its main files usage:
 
 ```
@@ -106,21 +110,25 @@ Here is a brief explanation of the template folder structure and some of its mai
 ```
 
 ## Deployment
+
 In deployment process, you have two commands:
 
 1. Build command
-Used to generate the final result of compiling src files into build folder. This can be achieved by running the following command:
+   Used to generate the final result of compiling src files into build folder. This can be achieved by running the following command:
+
 ```
 > npm run build
 ```
 
 2. Preview command
-Used to create a local dev server in order to preview the final output of build process. This can be achieved by running the following command:
+   Used to create a local dev server in order to preview the final output of build process. This can be achieved by running the following command:
+
 ```
 > npm run preview
 ```
 
 ## Built With
+
 - [Babel](https://babeljs.io/)
 - [Webpack](https://webpack.js.org/)
 - [Eslint](https://eslint.org/)
@@ -147,13 +155,17 @@ Used to create a local dev server in order to preview the final output of build 
 - [Bootstrap Datepicker](https://bootstrap-datepicker.readthedocs.io/en/latest/)
 
 ## Changelog
+
 #### V 1.0.0
+
 Initial Release
 
 ## Authors
+
 [Colorlib](https://colorlib.com)
 
 ## More info
+
 - [Bootstrap Dashboards](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
 - [Bootstrap Templates](https://colorlib.com/wp/free-bootstrap-templates/)
 - [HTML Templates](https://colorlib.com/wp/free-html-website-templates/)
@@ -164,4 +176,4 @@ Initial Release
 
 ## License
 
-Adminator is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that Colorlib is the original author of this template.
+HAPT is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that Colorlib is the original author of this template.
